@@ -1,0 +1,10 @@
+numpy>=1.24
+scipy>=1.10
+librosa>=0.10
+Pillow>=10.0
+imageio[ffmpeg]>=2.31
+noise>=1.2.2
+numba>=0.57
+click>=8.1
+tqdm>=4.65
+soundfile>=0.12

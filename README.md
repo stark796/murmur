@@ -2,6 +2,12 @@
 
 *A song becomes a living painting.*
 
+![Coffee Exact 3](assets/coffee_exact3.png)
+*Coffee Exact 3*
+
+![Ribs Art](assets/ribs_art.png)
+*Ribs Art*
+
 **murmur** takes an audio file and grows a song specific abstract image. It listens to the track's musical features (BPM, RMS, Spectral Centroid, Chroma) and translates them into a deterministic "Song DNA". This DNA then drives a variety of biological simulation engines to produce stunning, organic generative art.
 
 The core engine is heavily inspired by the works of Antonio Sánchez Chinchón (Fronkonstin) and features a mathematically glitched Physarum slime mold simulation that creates massive, sprawling abstractions.
